@@ -1,5 +1,7 @@
 # Learning AVIF
 
+Better image compression.
+
 ```html
 <picture>
   <!-- use AVIF if possible: -->
